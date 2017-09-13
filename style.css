@@ -1,0 +1,170 @@
+﻿
+body{
+font-size: 16px;
+background-image: url(bg-light-4868.png);
+font-family: Arial;
+margin:1px;
+
+}
+.bg_block
+{
+	background: #F3F3F3;
+	opacity: 0.7;
+	border: 1px solid white;
+	border-radius: 20px;
+	margin: 40px ;
+	width: 80%;
+	margin-top: 100px;
+
+}
+/*****************************************************88*/
+header{
+	
+	font-size: 45px;
+	padding-left: 150px;
+	background: #93B1B1;
+	text-shadow: 1px 1px 1px white;
+	height: 80px;
+	border-radius: 15px 80px;
+	border-bottom: 3px solid #ADC0B0;
+	margin-top: 2px;
+
+}
+header>p{
+	display: inline-block;
+	margin: 0;
+}
+header > sup{
+	font-size: 20px;
+}
+/******************************************************/
+.nav-menu{
+position: absolute;
+margin-left: 100px;
+}
+.nav-menu a{
+	text-decoration: none;
+	display: inline-block;
+	/*margin: 2px;*/
+	color: #eee;
+	padding: 9px;
+
+}
+
+
+	
+.nav-menu li{
+		display: inline-block;
+		margin-left: -5px;
+		border: 1px solid #52536B;
+		background: #6FBCD8;
+		border-radius: 1px;
+		height: 40px;
+
+}
+.nav-menu li:hover{
+	background:#1D7596;
+	font-size: 19px;
+	margin-bottom: -10px;
+}
+
+
+	
+
+table{
+border-collapse:collapse;
+margin-left: 40px;
+margin-right: 10px
+
+}
+td{
+border: 2px solid black;
+padding: 4px;
+}
+h1{
+	font-size: 25px;
+margin-left:45px;
+}
+img{
+margin: 5px;
+border-radius: 10px;
+border: 2px solid white;
+display: inline-block;
+}
+.container >p{
+ 	margin: 12px 50px;
+ 	
+	background: rgba(150, 150, 150, 0.5);
+	padding: 10px;
+	border: 2px #efe dotted;
+	border-radius: 7px;
+	
+}
+.container> img{
+	margin:20px;
+	height: 150px;
+border: 1px solid ;
+}
+hr{
+	margin: 5px 110px; 
+}
+.ex7{
+	background: #969696;
+	border-top: 1px solid black;
+	width: 80%;
+	margin-left: 150px;
+}
+.refer{
+	color:orange;
+}
+.theme{
+	color: #82DaFA;
+	font-size: 25px;
+
+}
+.lis{
+	text-decoration: underline;
+	color: red;
+	font-style: italic;
+
+}
+.yul{
+	text-decoration: underline;
+	color: green;
+}
+.red{
+	font-style: italic;
+	color:red;
+	font-weight: bold;
+}
+.italic{
+	font-style: italic;
+}
+.greitun{
+	text-decoration: underline;
+	color:#85FF8B;
+	font-style: italic;
+}
+.gu{
+	color:blue;
+	text-decoration: underline;
+}
+.rb{
+	font-weight: bold;
+	color:red;
+}
+.ex71{
+	
+	width: 80%;
+	margin-left: 150px;
+}
+.lol{
+	font-style: italic;
+	color:red;
+}
+.de{
+	font-weight:bold;
+	text-decoration: underline;
+
+	}
+}
